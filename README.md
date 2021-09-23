@@ -1,2 +1,1 @@
-# netflix-clone
-netflix clone react tailwind css
+# Öğrenme amaçlı yaptığım clone projeleri burada tutuyorum.
